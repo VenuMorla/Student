@@ -1,1 +1,1 @@
-# Studet
+# Student
